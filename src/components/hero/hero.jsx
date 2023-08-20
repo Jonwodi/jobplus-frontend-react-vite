@@ -1,6 +1,6 @@
-import React from 'react'
-import './hero.scss'
-import Form from '../search/search'
+import React from "react";
+import "./hero.scss";
+import Form from "../search/search";
 
 export default function hero() {
   return (
@@ -10,5 +10,5 @@ export default function hero() {
         <Form />
       </div>
     </div>
-  )
+  );
 }
